@@ -1,0 +1,12 @@
+@media (max-width: 768px){
+.center-text{
+	text-align: center;
+}
+}
+
+@media (max-width: 768px){
+	.sm-padding{
+		padding-top: 2em;
+	}
+}
+
