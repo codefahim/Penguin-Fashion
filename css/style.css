@@ -4,6 +4,12 @@
     }
 }
 
+@media (max-width: 999px) {
+    .custome-width {
+        width: 80%;
+    }
+}
+
 * {
     font-family: 'Roboto', sans-serif;
 }
@@ -48,4 +54,17 @@ h3 {
     font-weight: bold;
     font-family: 'Roboto', sans-serif;
     font-size: 30px;
+}
+
+@media (max-width: 768px) {
+    .img>img {
+        margin: auto;
+    }
+    .summary>div {
+        margin: 10px 0;
+    }
+    .new {
+        margin: 10px 0;
+        ;
+    }
 }
