@@ -103,7 +103,7 @@ h4 {
     padding: 1px 0;
 }
 
-footer p {
+footer>p {
     text-align: center;
     color: #b2bec3;
     font-size: 12px;
