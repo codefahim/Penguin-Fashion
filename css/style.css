@@ -1,12 +1,26 @@
-@media (max-width: 768px){
-.center-text{
-	text-align: center;
-}
-}
-
-@media (max-width: 768px){
-	.sm-padding{
-		padding-top: 2em;
-	}
+@media (max-width: 768px) {
+    .w-md-50 {
+        width: 50%;
+    }
 }
 
+* {
+    font-family: 'Roboto', sans-serif;
+}
+
+
+/* font-family: 'Bebas Neue',
+cursive;
+font-family: 'Roboto',
+sans-serif; */
+
+li a {
+    font-family: 'Roboto', sans-serif;
+    font-size: 15px;
+    color: #2c3e50;
+}
+
+h1 {
+    font-family: 'Bebas Neue', cursive;
+    font-size: 60px;
+}
