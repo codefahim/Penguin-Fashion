@@ -92,3 +92,20 @@ h4 {
     font-size: 20px;
     color: #363958;
 }
+
+.amazon-data {
+    margin: 10px 0;
+}
+
+.amazon-data>p {
+    font-size: 12px;
+    margin: 0;
+    padding: 1px 0;
+}
+
+footer p {
+    text-align: center;
+    color: #b2bec3;
+    font-size: 12px;
+    margin-top: 20px;
+}
