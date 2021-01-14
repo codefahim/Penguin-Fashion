@@ -30,3 +30,22 @@ h3 {
     font-size: 40px;
     color: #363958;
 }
+
+.shadow-lg-custome {
+    box-shadow: 0 .5rem 1rem rgba(0, 0, 0, 0.175) !important;
+}
+
+.btn-custome {
+    font-size: 11px;
+    background-image: linear-gradient(to bottom, #A4BC46, #85A019);
+    border-radius: 6px;
+    padding: 12px 20px;
+    color: white;
+}
+
+.head-price {
+    color: #FABE4C;
+    font-weight: bold;
+    font-family: 'Roboto', sans-serif;
+    font-size: 30px;
+}
